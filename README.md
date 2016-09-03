@@ -1,14 +1,16 @@
 # C-Command-Line-Interpreter
 Command Line Interpreter built in C to emulate Unix commands
 
-To compile use in terminal
+In terminal cd to this directory 
 
-$ gcc -o Advanced_CLI cd.c clear.c copy.c dir.c echo.c find.c halt.c help.c main.c newfile.c pause.c quit.c run.c
+To compile use 
 
-To run use in terminal 
+`$ gcc -o Advanced_CLI cd.c clear.c copy.c dir.c echo.c find.c halt.c help.c main.c newfile.c pause.c quit.c run.c`
 
-$ ./Advanced_CLI
+To run use
 
-For a description of functions use (after running the program)
+`$ ./Advanced_CLI`
 
-$ help
+For a description of functions run the program and use
+
+`$ help`
